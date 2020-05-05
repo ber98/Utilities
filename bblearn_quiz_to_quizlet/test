@@ -1,0 +1,66 @@
+Question 12
+
+Flutter takes advantage of the techniques used in ________ development to support flexible UI layout supporting various screen sizes and aspect ratios.
+
+Selected Answer:	
+Correct 
+Web application 
+
+Answers:	
+iOS application
+
+Desktop application
+
+Correct 
+Web application 
+
+Notepad application
+
+Question 13
+1 out of 1 points
+
+This feature of Flutter platform tremendously improves efficiency of the iterative software development process.
+
+Selected Answer:	
+Correct 
+Hot Reload
+
+Answers:	
+Open Source
+
+Emulator
+
+Correct 
+Hot Reload
+
+Simulator
+
+Question 14
+0 out of 1 points
+
+Which one of the statements below about Flutter widgets is not correct?
+
+Selected Answer:	
+Incorrect 
+All the three statement are correct.
+
+Answers:	
+A widget may display something on the screen.
+
+Correct 
+A widget cannot have behavior.
+
+A widget may be used for positioning of other widgets on the screen.
+
+All the three statement are correct.
+
+Question 15
+1 out of 1 points
+
+An iOS mobile application developed using Flutter and tested using Android Emulator is ready to be deployed to App Store.
+
+Selected Answer:	
+CorrectFalse
+Answers:	
+True
+CorrectFalse
